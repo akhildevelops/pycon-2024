@@ -1,0 +1,15 @@
+# Ignores artifacts
+zig-cache
+zig-out
+.zig-cache
+# Ignores scratchpad
+scratchpad
+
+# Ignores Vscode settings
+.vscode
+
+file.txt
+
+.venv
+*.egg-info
+*.so

@@ -1,5 +1,5 @@
 # pycon-2024
-Pycon-2024 Repo
+Slides: https://slides.com/akhilg/pycon2024-blr
 
 Run `add, concat, prime` programs by running below make commands respectively
 ```shell
